@@ -1,6 +1,6 @@
 [![Header](https://github.com/Maximthe1/Maximthe1/blob/main/assets/Maximthe1.png)](https://github.com/Maximthe1)
 
-## Hello, welcome to my profile!.
+## Hello, I'm Maxim, welcome to my profile!.
 Я начинающий full stack программист из РБ.  Изучаю язык программирования python и javascript . Прошел расширенный курс по python от GeekBrains. Владею linux. Знаю такие фреймворки как: Django, Flask, Airgram, Telebot, Kivi, KiviMD, BeautifulSoup. Также умею разрабатывать игры на Godot4. Буду рад знакомству, вопросам  и совместным проектам для связи пишите в тг: <a href="https://t.me/mqx1mthe1">@mqx1mthe1</a>.
 
 I am a beginner full stack programmer from RB. I am learning the python and javascript programming languages. I took an advanced python course from GeekBrains. I own linux. I know such frameworks as: Django, Flask, Airgram, Telebot, Kivi, Kivi MD, BeautifulSoup. Also i know how to develop games on Godot4. I will be glad to meet you, have questions and joint projects. For communication, write to tg: <a href="https://t.me/mqx1mthe1">@mqx1mthe1</a>.
