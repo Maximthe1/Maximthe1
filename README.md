@@ -1,6 +1,9 @@
 [![Header](https://github.com/Maximthe1/Maximthe1/blob/main/assets/Maximthe1.png)](https://github.com/Maximthe1)
 
-## I'm a beginner full stack programmer.
+## Hello, welcome to my profile!.
+Я начинающий full stack программист из РБ.  Изучаю язык программирования python и javascript . Прошел расширенный курс по python от Jetbrains. Владею linux. Знаю такие фреймворки как: Django, Flask, Airgram, Telebot, Kivi, Kivi MD, BeautifulSoup . Буду рад знакомству, вопросам  и совместным проектам для связи пишите в тг: @mqx1mthe1.
+
+I am a beginner full stack programmer from RB. I am learning the python and javascript programming languages. I took an advanced python course from Jetbrains. I own linux. I know such frameworks as: Django, Flask, Airgram, Telebot, Kivi, Kivi MD, BeautifulSoup. I will be glad to meet you, have questions and joint projects. For communication, write to tg: @mqx1mthe1.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximthe1&show_icons=true&theme=dracula&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
