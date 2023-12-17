@@ -2,6 +2,8 @@
 
 ## I'm a beginner full stack programmer.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximthe1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages and Tools:
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
