@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximthe1&layout=compact&show_icons=true&theme=dracula)
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=atom,bash,bootstrap,css,html,discord,django,docker,figma,flask,git,godot,linux,neovim,powershell,py,replit,sqlite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,git,docker,sqlite,css,html,bootstrap,figma,vscode,neovim,atom,bash,powershell,linux,replit,discord,bots,godot)](https://skillicons.dev)
 
 ## Follow Me:
 <a href="https://twitter.com/https://twitter.com/mqximthe1" target="_blank">
